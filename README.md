@@ -50,7 +50,7 @@ agentic-ai-security/
 ### 1. Clone the repository
 
 ```
-git clone <your-repo-url>
+git clone git@github.com:tilakbasyal/agentic_ai_security.git
 cd agentic-ai-security
 ```
 
