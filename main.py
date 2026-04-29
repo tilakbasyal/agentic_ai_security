@@ -17,9 +17,9 @@ if __name__ == "__main__":
 
     # --- Simple agent decision ---
     if "file" in user_input.lower():
-        file_content = read_file("./attacks/malicious.txt")
+        file_content = read_file("./attacks/malicious_4.txt")
 
-        print("\nDEBUG FILE CONTENT:\n", file_content)
+        # print("\nDEBUG FILE CONTENT:\n", file_content)
 
         # --- Strong prompt (important for Ollama) ---
         full_prompt = f"""
